@@ -169,7 +169,7 @@ public class FlyingFishView extends View
             }
             else
             {
-                canvas.drawBitmap(life[0],x,y,null);
+                canvas.drawBitmap(life[1],x,y,null);
             }
         }
 
